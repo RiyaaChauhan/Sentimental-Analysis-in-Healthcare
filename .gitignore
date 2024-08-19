@@ -1,1 +1,6 @@
 venv/
+slang_data_info.json/
+slang_data.csv/
+sentiment_indonesia/
+*.csv
+
